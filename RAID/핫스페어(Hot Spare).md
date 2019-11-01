@@ -7,7 +7,7 @@
 ##### Dedicate Hot Spare
 - 특정 RAID 볼륨에만 지정된다.
 
-## 핫스페어(Hot Spare) 적용
+## 핫스페어(Hot Spare) 적용 RAID
 ##### 적용불가능한 RAID
 - RAID 0 에서는 적용이 어렵다. RAID 자체의 목적은 성능중시이며 데이터 백업과는 거리가 먼 방식이기에 핫스페어의 적용이 안된다.
 ##### 적용가능한 RAID
