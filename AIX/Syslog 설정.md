@@ -20,7 +20,7 @@
 12) local0 ~ local7 : 로컬 사용을 위해 예약
 13) * : 모든 Facility
 
-#### Priority
+#### Priority 설명
 1) emerg : 시스템 패닉으로 인한 메세지
 2) alert : 조치를 즉시 수행 필요
 3) crit : 심각한 메세지
